@@ -1,0 +1,13 @@
+第三方软件说明
+================
+
+Config_Template\core\cg-mihomo.exe
+  名称：mihomo（Clash Meta 内核） v1.19.32 windows amd64
+  作者：MetaCubeX
+  协议：GNU General Public License v3.0（GPL-3.0）
+  源代码：https://github.com/MetaCubeX/mihomo
+  协议全文：https://www.gnu.org/licenses/gpl-3.0.html
+  说明：未经修改的官方构建，仅改名为 cg-mihomo.exe，作为「内置引擎」的网络内核。
+
+「Claude 保护」的其他程序（cg-hub.exe、cg-guard.exe 及各 .ps1 脚本）不包含上述软件的源代码，
+只以独立进程的方式调用它。
